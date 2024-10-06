@@ -6,7 +6,7 @@ from openai import OpenAI
 app = Flask(__name__)
 
 # 设置OpenAI API密钥
-openai.api_key = "fk201061-8XCrzLWCSLY99itAWOvWiTkrn8tkdf9M|ck545-c4fde9d"
+openai.api_key = "test"
 BASE_URL = "https://openai.api2d.net/v1/chat/completions"
 
 @app.route('/')

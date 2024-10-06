@@ -6,3 +6,4 @@ test  readme
 第五次修改
 第六次修改，理解commit
 第7次修改
+在github上修改，理解下pull
